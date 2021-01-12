@@ -3,7 +3,7 @@
 ## Development of a Flutter app which has two sign in methods -  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/google.svg' alt='google' height='40'>](https://www.google.co.in/) and  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/)  
 
 ## Major programming language used :
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dart.svg' alt='dart' height='40'>](https://dart.dev/)  
+<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank">
 
 
 ## Tools or software used:   
